@@ -118,7 +118,7 @@ input {
   background-color: white;
 }
 .input-item.success input{
-  border-color: #09c372;
+  border-color: var(--main-clr);
 }
 .input-item.error input{
   border-color: #ff3860;
